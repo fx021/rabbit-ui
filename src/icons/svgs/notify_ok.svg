@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c500ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="组_25" transform="translate(-10 -343)">
+    <g id="组_24" transform="translate(0 157)">
+      <rect id="矩形_48" class="cls-1" width="48" height="48" rx="5" transform="translate(10 186)"/>
+      <path id="通知" class="cls-2" d="M105.025,32a3.292,3.292,0,0,0,3.282-3.282h-6.564A3.282,3.282,0,0,0,105.025,32m9.846-9.846V13.949c0-5.038-2.69-9.255-7.385-10.371V2.462a2.462,2.462,0,1,0-4.923,0V3.577c-4.71,1.116-7.385,5.317-7.385,10.371v8.205L91.9,25.436v1.641h26.256V25.436l-3.282-3.282Z" transform="translate(-70.897 194)"/>
+    </g>
+    <g id="待办_2_" transform="translate(-26.009 263.991)">
+      <path id="路径_71" class="cls-1" d="M337.549,370.505l-4.81,4.81-1.656-1.656a.68.68,0,1,0-1.075.813l-.018.018,2.749,2.749.962-.962,4.81-4.81a.68.68,0,0,0-.962-.962Z" transform="translate(-274.25 -270.764)"/>
+    </g>
+  </g>
+</svg>

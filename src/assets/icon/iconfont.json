@@ -1,0 +1,58 @@
+{
+  "id": "2167176",
+  "name": "oa",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "73285",
+      "name": "事务",
+      "font_class": "shiwu4",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10955575",
+      "name": "事务",
+      "font_class": "shiwu5",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "6556070",
+      "name": "事务",
+      "font_class": "shiwu",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "7110842",
+      "name": "事务",
+      "font_class": "shiwu1",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "7958022",
+      "name": "事务",
+      "font_class": "shiwu2",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10208386",
+      "name": "事务",
+      "font_class": "shiwu3",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12972352",
+      "name": "事务",
+      "font_class": "-gtsquanjushiwufuwuGTS",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

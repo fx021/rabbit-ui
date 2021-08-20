@@ -1,0 +1,77 @@
+[33mcommit bd841089baf03a0a45a5c3f48ae1a932026785b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mindex[m[33m)[m
+Author: liulian <lldsy233@163.com>
+Date:   Tue Sep 29 17:51:41 2020 +0800
+
+    完成了下拉框联动 正在处理清楚上一次存储的数据清空
+
+[33mcommit e931114518572bc3178a7a50c7ab837e709f7883[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: liulian <lldsy233@163.com>
+Date:   Mon Sep 28 15:32:37 2020 +0800
+
+    下拉框默认显示已完成 正在弄判断条件显示数据
+
+[33mcommit aef4b401c217ad5fc1db94757d26efa0f6c0ca5a[m
+Author: liulian <lldsy233@163.com>
+Date:   Mon Sep 28 15:29:48 2020 +0800
+
+    下拉框默认显示已完成 正在弄判断条件显示数据
+
+[33mcommit 2585b83c0d046a3dbaeba68eb5235c940163494f[m
+Author: liulian <lldsy233@163.com>
+Date:   Mon Sep 28 09:05:22 2020 +0800
+
+    表单各控件是否显示已经调试完了 正在弄下拉框默认显示
+
+[33mcommit b4fe8074e255401338d67fd9b7b8f624f0974671[m
+Author: liulian <lldsy233@163.com>
+Date:   Sun Sep 27 19:10:23 2020 +0800
+
+    正在弄销售关联
+
+[33mcommit 46192b2faaa6c55e33fdbdaf5d8181cd9234cda0[m
+Author: liulian <lldsy233@163.com>
+Date:   Fri Sep 25 16:41:36 2020 +0800
+
+    接口只差那些关联的了
+
+[33mcommit a51da5f79448321626b0d70ae96c842ca7630552[m
+Author: liulian <lldsy233@163.com>
+Date:   Fri Sep 25 10:55:52 2020 +0800
+
+    修改完了表单的查询表格\表单重置\分页器
+
+[33mcommit 3be9ee9c6da6cac31ca75ffcdcc9b9471a745875[m
+Author: liulian <lldsy233@163.com>
+Date:   Fri Sep 25 09:56:29 2020 +0800
+
+    修改完了表单的查询表格\表单重置\分页器
+
+[33mcommit 34a23c20e0bdd8c2129a83f3e6c766364957b147[m
+Author: liulian <lldsy233@163.com>
+Date:   Thu Sep 24 16:51:54 2020 +0800
+
+    查询与新增貌似弄完了,正在弄掉新的接口
+
+[33mcommit 6ef7681fe923103027aa6c7394de656273d002e2[m
+Author: liulian <lldsy233@163.com>
+Date:   Wed Sep 23 18:05:02 2020 +0800
+
+    弄表单一起保存
+
+[33mcommit 197200c7b83aa8b902d291571daea3696fe256a8[m
+Author: liulian <lldsy233@163.com>
+Date:   Wed Sep 23 16:35:42 2020 +0800
+
+    完成了地址维护的新增保存
+
+[33mcommit b3b5b2c40c80cce9a80ce3d7b1399f4ef4f5ddc0[m
+Author: liulian <lldsy233@163.com>
+Date:   Wed Sep 23 11:47:06 2020 +0800
+
+    完成了查询
+
+[33mcommit fef023e3eb116186fd043a7e515f8e21c741152f[m
+Author: liulian <lldsy233@163.com>
+Date:   Tue Sep 22 15:03:39 2020 +0800
+
+    第一次提交
